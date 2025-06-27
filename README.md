@@ -36,7 +36,8 @@ Each folder below contains:
 
 ### 🔹 Projects:
 
-- [`Sales Dashboard`]([./Business%20portfolio/Sales%20Dashboard](https://github.com/Freixo88/Data-Business-Analysis-Portfolio/tree/main/Sales%20Dashboard))
+- [Sales Dashboard](./Sales%20Dashboard)
+
 - More coming soon (e.g. Road Accidents in Europe, Bank Marketing Analysis...)
 
 ---

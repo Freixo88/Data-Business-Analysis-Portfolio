@@ -26,8 +26,8 @@ This was my very first Power BI dashboard, created to analyze sales data for a s
 - https://drive.google.com/file/d/1PAXarI8LUZZaUohBycFXY6GI3roHNRm1/view?usp=drive_link
 - https://docs.google.com/spreadsheets/d/1dtOkE-A5Ml7YlOweAtfgwKSHyRgipHO5/edit?usp=drive_link&ouid=103997645217247119588&rtpof=true&sd=true
  
- ![1st project](https://github.com/user-attachments/assets/8eb02d3c-d975-4961-afbe-a4f261d1508d)
-![Captura de ecrã 2025-06-23 113111](https://github.com/user-attachments/assets/c43fcf98-9f9f-47f1-b897-8e1f5f846783)
+![1st project](https://github.com/user-attachments/assets/f0509d6a-a687-4ff5-81e3-8bde24c21599)
+![Model](https://github.com/user-attachments/assets/e930d604-82da-40e1-a7c4-66843ba1393f)
 > 🗂️ `.pbix` file available on request
 
 ---
@@ -43,6 +43,8 @@ Stay tuned as I continue learning and building new dashboards based on real-worl
 ## Contact
 
 You can reach me via email at [brunofreixo88@gmail.com](mailto:brunofreixo88@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bruno-freixo-2a28b7147).
+
+
 
 ---
 

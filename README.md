@@ -20,7 +20,7 @@ Each project is designed to demonstrate real-world analytical thinking, data han
 
 - **Power BI**
 - **Microsoft Excel**
-- **SQL (basic)**
+- **SQL**
 - **CSV / Public Datasets**
 - *(Exploring Python and Jupyter Notebooks soon)*
 

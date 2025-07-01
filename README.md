@@ -53,7 +53,7 @@ This portfolio is part of my **journey to build a career in data** and to demons
 ---
 
 📍 Based in Barreiro, Portugal  
-📧 Contact: freixobruno@gmail.com  
+📧 Contact: brunofreixo88@gmail.com  
 🔗 [GitHub Profile](https://github.com/Freixo88)
 
 ---

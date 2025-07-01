@@ -38,6 +38,8 @@ Each folder below contains:
 
 - [Sales Dashboard](./Sales%20Dashboard)
 
+- [Superstore Sales Analysis](./Superstore%20Sales%20Analysis)
+
 - More coming soon (e.g. Road Accidents in Europe, Bank Marketing Analysis...)
 
 ---
